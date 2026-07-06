@@ -1,0 +1,14 @@
+{
+    "geode": "2.0.0",
+    "id": "fabygamer1277.of",
+    "version": "1.0.0",
+    "name": "Optimizing FPS",
+    "developer": "Fabygamer1277",
+    "description": "Controlador de FPS y TPS reales para Geometry Dash y mod que también ayuda a optimizar un poquillo el juego",
+    "dependencies": [
+        {
+            "id": "geode.cbf",
+            "version": ">=1.0.0"
+        }
+    ]
+}
